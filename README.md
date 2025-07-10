@@ -77,8 +77,8 @@ mindmap
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)](https://www.python.org/)
-[![GCP](https://img.shields.io/badge/Google_Cloud-Specialist-4285F4?style=flat-square&logo=google-cloud)](https://cloud.google.com/)
-[![Azure](https://img.shields.io/badge/Azure-Proficient-0089D6?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/)
+[![GCP](https://img.shields.io/badge/Machine-Learning-4285F4?style=flat-square&logo=google-cloud)](https://cloud.google.com/)
+[![Azure](https://img.shields.io/badge/Deep-Learning-0089D6?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/)
 </div>
 
 
@@ -108,14 +108,14 @@ mindmap
 
 
 ### 📢 Connect with me
-<p align="center">
+<div align="center">
 <a href="https://x.com/VivekKumar7171"> <img alt="Vivek Prasad Kushwaha  | Twitter" width="22px" src="https://github.com/peterthehan/peterthehan/blob/ff2abc82ba18c42902a70c233d165c4e13c5a480/assets/twitter.svg" /> </a>
 <a href="https://www.linkedin.com/in/Vivek-Kumar7171/"> <img alt="Vivek's LinkedIn" width="22px" src="https://github.com/peterthehan/peterthehan/blob/ff2abc82ba18c42902a70c233d165c4e13c5a480/assets/linkedin.svg" /> </a>
 <a href="https://medium.com/@mrvivekkumar7171" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/> </a>
   
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green)](https://thesoftmax.com/)
 ![](https://komarev.com/ghpvc/?username=mrvivekkumar7171&color=blue&style=flat&label=Views)
-</p>
+</div>
 
 
 ### Languages and Tools:

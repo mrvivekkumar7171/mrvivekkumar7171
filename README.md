@@ -59,9 +59,8 @@ mindmap
 🌱 I’m learning **Machine Learning, Cloud (AWS), and MLOPs**  
 💬 Ask me about **Python, Linux, Web Dev, GitHub**  
 📫 How to reach me: **mrvivekkumar7171@gmail.com**  
-⚡ Fun fact: _“Linux is love, Python is life.”_
-
----
+⚡ Fun fact: _“Linux is love, Python is life.”_ 
+> “Building the future with code, one repo at a time.”  
 
 ### 🛠️ Tech Stack
 
@@ -119,13 +118,9 @@ mindmap
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Beating%20Heart.png" width="25" height="25"> Support My Work
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40"> Support My Work
 
 <div align="center">
   
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/thesoftmax)
 </div>
-
----
-
-> “Building the future with code, one repo at a time.”  

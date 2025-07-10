@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40"> <a href="https://github.com/mrvivekkumar7171">Vivek!</a></h1>
-<h3 align="center">🌟 Data Scientist | Python Developer | Linux User 🌟</h3>
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40"> <a href="https://github.com/mrvivekkumar7171">Hi, I am Vivek!</a></h1>
+> “Linux is love, Python is life.” 
+<h3 align="center">🌟 Data Scientist | Python Developer | Automation | AI-based projects | Web Dev🌟</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Data-Scientist-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI-Engineering-blue?style=for-the-badge" />
@@ -36,39 +37,32 @@ mindmap
   root((My Skills))
     Core Languages
       Python
-      JavaScript
       SQL
     Cloud Platforms
       Google Cloud
       Azure
       AWS
     AI/ML
+      ML
+      DL
+      scikit-learn
+      TensorFlow
+      OpenCV
       LLMs
       Generative AI
       RAG
       Computer Vision
-    DevOps
+    MLOPs
       Docker
       Kubernetes
       CI/CD
+      Git
+      GitHub
+      DVC
+      Linux (Ubuntu)
+      Windows
 ```
 
----
-
-🔭 I’m currently working on **Python automation & AI-based projects**  
-🌱 I’m learning **Machine Learning, Cloud (AWS), and MLOPs**  
-💬 Ask me about **Python, Linux, Web Dev, GitHub**  
-📫 How to reach me: **mrvivekkumar7171@gmail.com**  
-⚡ Fun fact: _“Linux is love, Python is life.”_ 
-> “Building the future with code, one repo at a time.”  
-
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" width="40" height="40" alt="Test Tube"> Tech Stack
-- **Languages**: Python, SQL
-- **AI/ML**: scikit-learn, TensorFlow, OpenCV  
-- **Cloud**: AWS
-- **Tools**: Git, GitHub, VS Code, Docker  
-- **OS**: Linux Ubuntu, Windows
 
 ---
 
@@ -77,8 +71,10 @@ mindmap
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)](https://www.python.org/)
-[![GCP](https://img.shields.io/badge/Machine-Learning-4285F4?style=flat-square&logo=google-cloud)](https://cloud.google.com/)
-[![Azure](https://img.shields.io/badge/Deep-Learning-0089D6?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/)
+[![Machine Learning](https://img.shields.io/badge/Machine-Learning-4285F4?style=flat-square&logo=google-cloud)](https://cloud.google.com/)
+[![Deep Learning](https://img.shields.io/badge/Deep-Learning-0089D6?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/)
+[![Deep Learning](https://img.shields.io/badge/Deep-Learning-0089D6?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/)
+[![Deep Learning](https://img.shields.io/badge/Deep-Learning-0089D6?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/)
 </div>
 
 
@@ -87,6 +83,8 @@ mindmap
   
 [![FastAPI](https://img.shields.io/badge/FastAPI-Skilled-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat-square&logo=kubernetes)](https://kubernetes.io/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat-square&logo=kubernetes)](https://kubernetes.io/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat-square&logo=kubernetes)](https://kubernetes.io/)
 </div>
 
@@ -114,6 +112,9 @@ mindmap
 <a href="https://medium.com/@mrvivekkumar7171" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/> </a>
 <a href="https://thesoftmax.com/">
   <img src="https://img.shields.io/badge/-Portfolio-green" alt="Portfolio"/>
+</a>
+<a href="mailto:mrvivekkumar7171@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=mrvivekkumar7171&color=blue&style=flat&label=Views" alt="Profile Views"/>
 </div>

@@ -63,7 +63,7 @@ mindmap
 > “Building the future with code, one repo at a time.”  
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Science/Test%20Tube.png" width="40" height="40" alt="Test Tube"> Tech Stack
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" width="40" height="40" alt="Test Tube"> Tech Stack
 - **Languages**: Python, SQL
 - **AI/ML**: scikit-learn, TensorFlow, OpenCV  
 - **Cloud**: AWS
@@ -73,7 +73,7 @@ mindmap
 ---
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="40" height="40" alt="Brain"> Core Technologies
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand gestures/Brain.png" width="40" height="40" alt="Brain"> Core Technologies
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)](https://www.python.org/)

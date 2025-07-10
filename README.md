@@ -94,8 +94,6 @@ mindmap
 
 [![Vivek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrvivekkumar7171&theme=dark)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvivekkumar7171&langs_count=6&title_color=444e59&text_color=3382ed&icon_color=ef4444&bg_color=ffffff&hide_border=true&layout=compact)](https://github.com/mrvivekkumar7171)
-
 #### Vivek's LeetCode Stats! [LC Profile](https://leetcode.com/mrvivekkumar7171)
 [![Vivek's LeetCode stats](https://leetcard.jacoblin.cool/mrvivekkumar7171?font=roboto&ext=activity&hide=ranking)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
 
@@ -103,10 +101,10 @@ mindmap
 
 ### 📢 Connect with me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green)]((https://thesoftmax.com/))
 <a href="https://x.com/VivekKumar7171"> <img align="left" alt="Vivek Prasad Kushwaha  | Twitter" width="22px" src="https://github.com/peterthehan/peterthehan/blob/ff2abc82ba18c42902a70c233d165c4e13c5a480/assets/twitter.svg" /> </a>
 <a href="https://www.linkedin.com/in/Vivek-Kumar7171/"> <img align="left" alt="Vivek's LinkedIn" width="22px" src="https://github.com/peterthehan/peterthehan/blob/ff2abc82ba18c42902a70c233d165c4e13c5a480/assets/linkedin.svg" /> </a>
 <a href="https://medium.com/@mrvivekkumar7171" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/> </a>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green)]((https://thesoftmax.com/))
 ![](https://komarev.com/ghpvc/?username=mrvivekkumar7171&color=blue&style=flat&label=Views)
 
 **Languages and Tools:**

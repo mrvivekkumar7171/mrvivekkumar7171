@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi there, I'm <a href="https://github.com/mrvivekkumar7171">Vivek</a>!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi there, I'm <a href="https://github.com/mrvivekkumar7171">Vivek</a>!
 <h3 align="center">🌟 Data Scientist | Python Developer | Automation | AI-based projects | Web Dev🌟</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Data-Scientist-orange?style=for-the-badge" />
@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="50" height="50" alt="Man Technologist">About Me
-<h3>An aspiring Data Scientist specializing in end-to-end AI solution development using AWS. My expertise spans:</h3>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="50" height="50" alt="Man Technologist">About Me
+> “Data Science is love, Python is life.”
 
-> “Linux is love, Python is life.” 
+<h4 style="font-weight: normal;">An aspiring Data Scientist specializing in end-to-end AI solution development using AWS. My expertise spans:</h4>
 
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20"> | Machine Learning & Deep Learning |
 |:--:|:---|
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="20"> | Business-Focused AI Solutions |
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="40" height="40" alt="Hammer and Wrench"> Tech Stack
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="40" height="40" alt="Hammer and Wrench"> Tech Stack
 
 ```mermaid
 mindmap
@@ -71,7 +71,7 @@ mindmap
 ```
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand gestures/Brain.png" width="40" height="40" alt="Brain"> Core Technologies
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand gestures/Brain.png" width="40" height="40" alt="Brain"> Core Technologies
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)](https://www.python.org/)
@@ -80,7 +80,7 @@ mindmap
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40" height="40" alt="Gear"> Development Tools, Languages & Frameworks
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40" height="40" alt="Gear"> Development Tools, Languages & Frameworks
 <div align="center">
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-Skilled-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
@@ -89,7 +89,7 @@ mindmap
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="40" height="40" alt="Chart Increasing"> GitHub Stats
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="40" height="40" alt="Chart Increasing"> GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrvivekkumar7171&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api?username=mrvivekkumar7171&show_icons=true&theme=radical"/>
@@ -97,24 +97,24 @@ mindmap
 </p>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="40" height="40" /> [Vivek's LeetCode](https://leetcode.com/mrvivekkumar7171) Stats!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="40" height="40" /> [Vivek's LeetCode](https://leetcode.com/mrvivekkumar7171) Stats!
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mrvivekkumar7171?font=roboto&ext=activity&hide=ranking"/>
 </p>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" width="40" height="40" alt="Loudspeaker"> Connect with me
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" width="40" height="40" alt="Loudspeaker"> Connect with me
 <div align="center">
 <a href="https://x.com/VivekKumar7171"> <img alt="Vivek Prasad Kushwaha  | Twitter" width="22px" src="https://github.com/peterthehan/peterthehan/blob/ff2abc82ba18c42902a70c233d165c4e13c5a480/assets/twitter.svg" /> </a>
-<a href="https://www.linkedin.com/in/Vivek-Kumar7171/"> <img alt="Vivek's LinkedIn" width="22px" src="https://github.com/peterthehan/peterthehan/blob/ff2abc82ba18c42902a70c233d165c4e13c5a480/assets/linkedin.svg" /> </a>
+<a href="https://www.linkedin.com/in/Vivek-Kumar7171/"> <img alt="Vivek's LinkedIn" width="22px" src="https://github.com/peterthehan/peterthehan/blob/ff2abc82ba18c42902a70c233d165c4e13c5a480/assets/linkedin.svg"/> </a>
 <a href="https://medium.com/@mrvivekkumar7171" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/> </a>
 <a href="https://thesoftmax.com/"><img src="https://img.shields.io/badge/-Portfolio-green" alt="Portfolio"/></a>
 <a href="mailto:mrvivekkumar7171@gmail.com"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="30" height="30" /></a>
-<img src="https://komarev.com/ghpvc/?username=mrvivekkumar7171&color=blue&style=flat&label=Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=mrvivekkumar7171&color=blue&style=flat&label=Views" alt="Profile Views" style="display: inline-block; margin-bottom: 50px;"/>
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" height="40" alt="Handshake"> Support My Work
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" height="40" alt="Handshake"> Support My Work
 <div align="center">
   
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/thesoftmax)

@@ -62,8 +62,8 @@ mindmap
 ⚡ Fun fact: _“Linux is love, Python is life.”_ 
 > “Building the future with code, one repo at a time.”  
 
-### 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
 - **Languages**: Python, SQL
 - **AI/ML**: scikit-learn, TensorFlow, OpenCV  
 - **Cloud**: AWS
@@ -72,15 +72,15 @@ mindmap
 
 ---
 
-### 🧠 Core Technologies
 
+### 🧠 Core Technologies
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)](https://www.python.org/)
 [![GCP](https://img.shields.io/badge/Google_Cloud-Specialist-4285F4?style=flat-square&logo=google-cloud)](https://cloud.google.com/)
 [![Azure](https://img.shields.io/badge/Azure-Proficient-0089D6?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/)
-
 </div>
+
 
 ### Development Tools & Frameworks
 <div align="center">
@@ -90,13 +90,14 @@ mindmap
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat-square&logo=kubernetes)](https://kubernetes.io/)
 </div>
 
-### 📈 GitHub Stats
 
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrvivekkumar7171&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api?username=mrvivekkumar7171&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvivekkumar7171&layout=compact&theme=github_dark" />
 </p>
+
 
 #### Vivek's LeetCode Stats! [LC Profile](https://leetcode.com/mrvivekkumar7171)
 <p align="center">
@@ -104,6 +105,7 @@ mindmap
 </p>
 
 ---
+
 
 ### 📢 Connect with me
 <p align="center">
@@ -117,14 +119,14 @@ mindmap
 
 
 ### Languages and Tools:
-<p align="center">
+<div align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/21003710"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://avatars1.githubusercontent.com/u/21206976"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-</p>
+</div>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40"> Support My Work

@@ -63,7 +63,7 @@ mindmap
 > “Building the future with code, one repo at a time.”  
 
 
-### 🛠️ Tech Stack
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Science/Test%20Tube.png" width="40" height="40" alt="Test Tube"> Tech Stack
 - **Languages**: Python, SQL
 - **AI/ML**: scikit-learn, TensorFlow, OpenCV  
 - **Cloud**: AWS
@@ -73,7 +73,7 @@ mindmap
 ---
 
 
-### 🧠 Core Technologies
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="40" height="40" alt="Brain"> Core Technologies
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)](https://www.python.org/)
@@ -82,7 +82,7 @@ mindmap
 </div>
 
 
-### ⚙ Development Tools & Frameworks
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40" height="40" alt="Gear"> Development Tools & Frameworks
 <div align="center">
   
 [![FastAPI](https://img.shields.io/badge/FastAPI-Skilled-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
@@ -91,7 +91,7 @@ mindmap
 </div>
 
 
-### 📈 GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="40" height="40" alt="Chart Increasing"> GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrvivekkumar7171&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api?username=mrvivekkumar7171&show_icons=true&theme=radical"/>
@@ -99,7 +99,7 @@ mindmap
 </p>
 
 
-#### 🖥 Vivek's LeetCode Stats! [LC Profile](https://leetcode.com/mrvivekkumar7171)
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="40" height="40" alt="Desktop Computer"> Vivek's LeetCode Stats! [LC Profile](https://leetcode.com/mrvivekkumar7171)
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mrvivekkumar7171?font=roboto&ext=activity&hide=ranking"/>
 </p>
@@ -107,7 +107,7 @@ mindmap
 ---
 
 
-### 📢 Connect with me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" width="40" height="40" alt="Loudspeaker"> Connect with me
 <div align="center">
 <a href="https://x.com/VivekKumar7171"> <img alt="Vivek Prasad Kushwaha  | Twitter" width="22px" src="https://github.com/peterthehan/peterthehan/blob/ff2abc82ba18c42902a70c233d165c4e13c5a480/assets/twitter.svg" /> </a>
 <a href="https://www.linkedin.com/in/Vivek-Kumar7171/"> <img alt="Vivek's LinkedIn" width="22px" src="https://github.com/peterthehan/peterthehan/blob/ff2abc82ba18c42902a70c233d165c4e13c5a480/assets/linkedin.svg" /> </a>
@@ -119,7 +119,7 @@ mindmap
 </div>
 
 
-### 🧪 Languages and Tools:
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="40" height="40" alt="Telescope"> Languages and Tools:
 <div align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/21003710"></code>

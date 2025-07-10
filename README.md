@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm [Vivek!](https://github.com/mrvivekkumar7171)</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/mrvivekkumar7171">Vivek!</a></h1>
 <h3 align="center">an aspiring Data Scientist and Machine Learning Researcher from India.</h3>
 <h3 align="center">Data Scientist | Python Developer | Linux User</h3>
 

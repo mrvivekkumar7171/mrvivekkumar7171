@@ -85,10 +85,9 @@ mindmap
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrvivekkumar7171&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvivekkumar7171&layout=compact&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mrvivekkumar7171&show_icons=true&theme=radical"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrvivekkumar7171&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrvivekkumar7171&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvivekkumar7171&layout=compact&theme=github_dark" />
 </p>
 
 #### Vivek's LeetCode Stats! [LC Profile](https://leetcode.com/mrvivekkumar7171)

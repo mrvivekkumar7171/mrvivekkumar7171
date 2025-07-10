@@ -43,13 +43,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=mrvivekkumar7171&show_icons=true&theme=github_dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvivekkumar7171&layout=compact&theme=github_dark" />
 </p>
+
 [![Vivek's Github Stats](https://github-readme-stats.vercel.app/api?username=mrvivekkumar7171&show_icons=true&theme=radical)](https://github.com/mrvivekkumar7171/github-readme-stats)
 
-This was generated from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-
 [![Vivek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrvivekkumar7171&theme=dark)](https://git.io/streak-stats)
-
-This was generated from [GitHub Streak Stats](https://git.io/streak-stats)
 
 #### Vivek's LeetCode Stats! [LC Profile](https://leetcode.com/mrvivekkumar7171)
 [![Vivek's LeetCode stats](https://leetcard.jacoblin.cool/mrvivekkumar7171?font=roboto&ext=activity&hide=ranking)](https://github.com/JacobLinCool/LeetCode-Stats-Card)

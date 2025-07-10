@@ -82,7 +82,7 @@ mindmap
 </div>
 
 
-### Development Tools & Frameworks
+### ⚙ Development Tools & Frameworks
 <div align="center">
   
 [![FastAPI](https://img.shields.io/badge/FastAPI-Skilled-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
@@ -99,7 +99,7 @@ mindmap
 </p>
 
 
-#### Vivek's LeetCode Stats! [LC Profile](https://leetcode.com/mrvivekkumar7171)
+#### 🖥 Vivek's LeetCode Stats! [LC Profile](https://leetcode.com/mrvivekkumar7171)
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mrvivekkumar7171?font=roboto&ext=activity&hide=ranking"/>
 </p>
@@ -119,7 +119,7 @@ mindmap
 </div>
 
 
-### Languages and Tools:
+### 🧪 Languages and Tools:
 <div align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/21003710"></code>

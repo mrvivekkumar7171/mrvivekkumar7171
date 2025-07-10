@@ -112,9 +112,10 @@ mindmap
 <a href="https://x.com/VivekKumar7171"> <img alt="Vivek Prasad Kushwaha  | Twitter" width="22px" src="https://github.com/peterthehan/peterthehan/blob/ff2abc82ba18c42902a70c233d165c4e13c5a480/assets/twitter.svg" /> </a>
 <a href="https://www.linkedin.com/in/Vivek-Kumar7171/"> <img alt="Vivek's LinkedIn" width="22px" src="https://github.com/peterthehan/peterthehan/blob/ff2abc82ba18c42902a70c233d165c4e13c5a480/assets/linkedin.svg" /> </a>
 <a href="https://medium.com/@mrvivekkumar7171" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/> </a>
-  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green)](https://thesoftmax.com/)
-![](https://komarev.com/ghpvc/?username=mrvivekkumar7171&color=blue&style=flat&label=Views)
+<a href="https://thesoftmax.com/">
+  <img src="https://img.shields.io/badge/-Portfolio-green" alt="Portfolio"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=mrvivekkumar7171&color=blue&style=flat&label=Views" alt="Profile Views"/>
 </div>
 
 

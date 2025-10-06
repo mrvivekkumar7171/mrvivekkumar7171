@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi there, I'm <a href="https://github.com/mrvivekkumar7171">Vivek</a>!
-<h3 align="center">🌟 Data Scientist | Python Developer | Automation | AI-based projects | Web Dev🌟</h3>
+<h3 align="center">🌟 Data Scientist | Python Developer | Automation | Agentic AI-based projects🌟</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Data-Scientist-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI-Engineering-blue?style=for-the-badge" />
@@ -45,7 +45,7 @@ mindmap
       ML
       DL
       scikit-learn
-      TensorFlow
+      TensorFlow-Keras
       OpenCV
       LLMs
       Generative AI

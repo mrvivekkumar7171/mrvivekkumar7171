@@ -11,6 +11,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+* [ ] Task 1
+* [x] Task 2
+* [ ] Task 3
+* [x] Task 4
+
+This is ~~deleted~~
+
+This is \*something* this
 -->
 
 

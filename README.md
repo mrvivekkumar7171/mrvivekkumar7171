@@ -86,7 +86,7 @@ mindmap
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)](https://www.python.org/)
-[![Machine Learning](https://img.shields.io/badge/Machine-Learning-4285F4?style=flat-square&logo=google-cloud)](https://cloud.google.com/)
+[![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=flat-square&logo=google-cloud)](https://cloud.google.com/)
 [![Deep Learning](https://img.shields.io/badge/Deep-Learning-0089D6?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/)
 </div>
 
@@ -96,8 +96,8 @@ mindmap
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-Skilled-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=git)](https://git-scm.com/)
-[![MLflow](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=mlflow)](http://mlflow.org/)
+[![Git](https://img.shields.io/badge/Git-Version_Control-yellow?style=flat-square&logo=git)](https://git-scm.com/)
+[![MLflow](https://img.shields.io/badge/MLflow-Tracking-pink?style=flat-square&logo=mlflow)](http://mlflow.org/)
 </div>
 
 
@@ -113,17 +113,11 @@ mindmap
 </p>
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" width="40" height="40" alt="Loudspeaker"> Connect with me
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" width="40" height="40" alt="Loudspeaker"> Connect with me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" height="40" alt="Handshake">
 <div align="center">
 <a href="https://www.linkedin.com/in/Vivek-Kumar7171/"> <img alt="Vivek's LinkedIn" width="22px" src="https://github.com/peterthehan/peterthehan/blob/ff2abc82ba18c42902a70c233d165c4e13c5a480/assets/linkedin.svg"/> </a>
 <a href="https://medium.com/@mrvivekkumar7171" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/> </a>
 <a href="mailto:mrvivekkumar7171@gmail.com"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="30" height="30" /></a>
 <img src="https://komarev.com/ghpvc/?username=mrvivekkumar7171&color=blue&style=flat&label=Views" alt="Profile Views" style="display: inline-block; margin-bottom: 50px;"/>
-</div>
-
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" height="40" alt="Handshake"> Support My Work
-<div align="center">
-  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/thesoftmax)
+<a href="https://www.buymeacoffee.com/thesoftmax"> <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" width="180" height="30" /></a>
 </div>

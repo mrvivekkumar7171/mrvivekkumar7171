@@ -23,7 +23,7 @@ This is \*something* this
 -->
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi there, I'm <a href="https://github.com/mrvivekkumar7171">Vivek</a>!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi there, I'm <a href="https://www.linkedin.com/in/mrvivekkumar7171/">Vivek</a>!
 <h3 align="center">🌟 Data Scientist | Python Developer | Automation | Agentic AI-based projects🌟</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Data-Scientist-orange?style=for-the-badge" />
